@@ -1,4 +1,4 @@
-# Codigo-Fundamentos-R--
+# Fundamentos-R-PLATZI
 Analizando datos de economía naranja con R. Jugando con mtcars antes de procesar orange economy.
 
 #EDA Scatter plot mtcars
